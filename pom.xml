@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.201.93.19:8081/repository/adonai-release/</url>
+	      <url>http://54.90.171.71:8081/repository/adonai-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.201.93.19:8081/repository/adonai-snapshots/</url>
+	      <url>http://54.90.171.71:8081/repository/adonai-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
